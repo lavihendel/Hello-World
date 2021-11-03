@@ -1,2 +1,2 @@
 # Hello-World
-Learning git functions
+Learning Branches and pulling requests
